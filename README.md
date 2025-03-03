@@ -11,5 +11,6 @@ project as per you wish/
     *static is a folder inside file is style.css
 
     After save the run the code in cmd 
+    python train_model.py #train the model
     python app.py
     copy the local host number
